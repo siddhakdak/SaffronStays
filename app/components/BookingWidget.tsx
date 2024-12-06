@@ -1,4 +1,4 @@
-import { FaUsers, FaCalendarAlt } from 'react-icons/fa';
+import {FaCalendarAlt } from 'react-icons/fa';
 export default function BookingWidget() {
   return (
     <div className="booking-widget">
