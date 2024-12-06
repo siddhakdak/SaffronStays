@@ -106,7 +106,7 @@ export default function Home() {
                 <h2>About</h2>
                 <ul className="about-list">
                   <li>Tucked away nicely in the lap of nature, this is the perfect destination getaway for a vacation trip near sand and tranquility.</li>
-                  <li>The tourist-favourite Seaside Lane is only a stone's throw away. <span style={{ fontWeight: "bold", color: "rgba(207, 183, 125, 1)", textDecoration: "underline" }}>Read more</span></li>
+                  <li>The tourist-favourite Seaside Lane is only a stones throw away. <span style={{ fontWeight: "bold", color: "rgba(207, 183, 125, 1)", textDecoration: "underline" }}>Read more</span></li>
                 </ul>
                 <div className="button-group">
                   <button className="secondary-button">House Rules</button>
